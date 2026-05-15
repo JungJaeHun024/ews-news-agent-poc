@@ -43,3 +43,5 @@ Thumbs.db
 # Secrets
 *.key
 *.pem
+
+*_backup.ipynb
