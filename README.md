@@ -141,7 +141,7 @@ User Natural Language Query
 → ExcelReflectionAgent
 
 → Natural Language Response
-
+```
 
 
 ## 5. Tech Stack
@@ -228,7 +228,7 @@ ews-news-agent-poc/
 
 &#x20;  └─ .gitkeep
 
-
+```
 
 ## 7. How to Run
 
@@ -257,7 +257,7 @@ ews-news-agent-poc/
 ```text
 
 오늘일자 기준으로 조중동의 건설경기 관련 뉴스 기사를 탐색해줘
-
+```
 ## 9. Notes
 
 
