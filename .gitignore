@@ -1,0 +1,45 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+
+# Jupyter / Colab
+*.ipynb_checkpoints
+
+# Local outputs
+outputs/*
+!outputs/.gitkeep
+
+# SQLite / DB
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel outputs
+*.xlsx
+*.xls
+
+# Chroma / Vector DB
+chroma/
+chroma_db/
+*_chroma*/
+ews_news_nim_chroma*/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.key
+*.pem

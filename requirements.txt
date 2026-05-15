@@ -1,0 +1,13 @@
+langgraph
+feedparser
+requests
+beautifulsoup4
+lxml
+pandas
+openpyxl
+chromadb
+sentence-transformers
+googlenewsdecoder
+trafilatura
+ftfy
+openai
