@@ -1,8 +1,8 @@
-\# EWS News RAG Agent Pipeline PoC
+# EWS News RAG Agent Pipeline PoC
 
 
 
-\## 1. Project Overview
+## 1. Project Overview
 
 
 
@@ -50,7 +50,7 @@ Then it automatically performs:
 
 
 
-\## 2. Key Features
+## 2. Key Features
 
 
 
@@ -86,7 +86,7 @@ Then it automatically performs:
 
 
 
-\## 3. Target Scenario
+## 3. Target Scenario
 
 
 
@@ -110,7 +110,7 @@ The agent interprets this as:
 
 
 
-\## 4. Architecture
+## 4. Architecture
 
 
 
@@ -141,10 +141,10 @@ User Natural Language Query
 → ExcelReflectionAgent
 
 → Natural Language Response
+```
 
 
-
-\## 5. Tech Stack
+## 5. Tech Stack
 
 
 
@@ -182,7 +182,7 @@ User Natural Language Query
 
 
 
-\## 6. Repository Structure
+## 6. Repository Structure
 
 
 
@@ -228,9 +228,9 @@ ews-news-agent-poc/
 
 &#x20;  └─ .gitkeep
 
+```
 
-
-\## 7. How to Run
+## 7. How to Run
 
 
 
@@ -250,14 +250,14 @@ ews-news-agent-poc/
 
 
 
-\## 8. Example Query
+## 8. Example Query
 
 
 
 ```text
 
 오늘일자 기준으로 조중동의 건설경기 관련 뉴스 기사를 탐색해줘
-
+```
 ## 9. Notes
 
 
@@ -270,7 +270,7 @@ The pipeline does not store full article text in the Vector DB. It stores verifi
 
 
 
-\## 10. Future Improvements
+## 10. Future Improvements
 
 
 
